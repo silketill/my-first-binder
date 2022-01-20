@@ -1,3 +1,3 @@
 # my-first-binder
 
-# just starting to learn
+just starting to learn
